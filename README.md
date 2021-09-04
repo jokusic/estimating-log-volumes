@@ -9,3 +9,6 @@ Prompts the user to input various attributes of a saw log in order to determine 
 ## Assumptions:
 The user will always be entering in correct input (numbers and never letters).
 User should be reprompted to keep re-entering new values until they are ready to exit (type "-1").
+
+## Additional Information:
+Assignment for CIS*3190 in 2019.
